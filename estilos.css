@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(47, 255, 20);
+=======
+    color: rgb(40, 62, 171);
+>>>>>>> cabecera
     text-align: center;
     font-family: 'curier', monospace;
 }
